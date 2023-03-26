@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DotNetCoreWebApp01.Models;
+namespace WebApp01.Models;
 
 public partial class Client
 {
